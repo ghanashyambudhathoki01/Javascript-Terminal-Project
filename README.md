@@ -1,16 +1,15 @@
+<h1 align="center">🎲 JavaScript Terminal Project – Random Phrase Generator</h1>
 
-<h1>🎲 JavaScript Terminal Project – Random Phrase Generator</h1>
-
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 </p>
 
-<p>
-A simple <b>Node.js CLI project</b> that generates a random phrase each time it runs.<br>
-Perfect for beginners learning <b>JavaScript</b>, <b>Node.js</b>, and building small <b>command-line tools</b>.
+<p align="center">
+  A simple <b>Node.js CLI project</b> that generates a random phrase each time it runs.<br>
+  Perfect for beginners learning <b>JavaScript</b>, <b>Node.js</b>, and building <b>command-line tools</b>.
 </p>
 
 <hr>
@@ -19,7 +18,7 @@ Perfect for beginners learning <b>JavaScript</b>, <b>Node.js</b>, and building s
 <ul>
   <li>✨ Generates a new random phrase on every run</li>
   <li>🪶 Lightweight and beginner-friendly</li>
-  <li>🛠️ Fully customizable — add your own phrases easily</li>
+  <li>🛠️ Fully customizable — add your own phrases</li>
   <li>⚡ Runs instantly in the terminal</li>
 </ul>
 
@@ -68,17 +67,9 @@ const phrases = [
 </code>
 </pre>
 
-<p>Save and re-run:</p>
-<pre>
-<code>
-node index.js
-</code>
-</pre>
-
 <h2>🤝 Contributing</h2>
-<p>Contributions are welcome!</p>
 <ol>
-  <li>Fork the repo</li>
+  <li>Fork the repository</li>
   <li>Create a new branch (<code>feature-new-phrases</code>)</li>
   <li>Commit your changes</li>
   <li>Open a pull request 🚀</li>
@@ -86,12 +77,5 @@ node index.js
 
 <h2>📜 License</h2>
 <p>
-This project is licensed under the <b>MIT License</b> – free to use, modify, and share.
-</p>
-
-<hr>
-
-<h3>✅ Suggested Tags for GitHub:</h3>
-<p>
-  #javascript #nodejs #cli #terminal #beginner-project #random #generator #opensource
+  This project is licensed under the <b>MIT License</b> – free to use, modify, and share.
 </p>
