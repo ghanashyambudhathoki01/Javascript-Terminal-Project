@@ -104,7 +104,7 @@ npm install (if any dependencies)
 
 <h2 id="author">Author</h2>
 <strong>Ghanashyam Budhathoki</strong><br>
-Aspiring Full Stack & Mobile App Developer | Computer Educator | Creative Designer | Writer<br>
+Aspiring Full Stack & Mobile App Developer | Computer Educator | Creative Designer | Writer<br><br>
 📚 Passionate about building apps that are logical, beautiful, and impactful. Helping others understand tech through creativity and simplicity.<br>
 </body>
 </html>
