@@ -7,7 +7,7 @@
 
 <h1>Javascript Terminal Project</h1>
 
-<p>This repository contains two terminal-based JavaScript applications: a <strong>vRandom Phrase Generator</strong> and a <strong>Rock Paper Scissors Game</strong>. Both projects are designed to run directly in your terminal, providing interactive command-line experiences.</p>
+<p>This repository contains two terminal-based JavaScript applications: a <strong> Random Phrase Generator</strong> and a <strong>Rock Paper Scissors Game</strong>. Both projects are designed to run directly in your terminal, providing interactive command-line experiences.</p>
 
 <h2>Table of Contents</h2>
 <ul>
