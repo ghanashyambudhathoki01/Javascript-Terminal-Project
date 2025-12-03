@@ -59,12 +59,6 @@ npm install (if any dependencies)
 <pre><code>node index.js
 </code></pre>
 
-<h2 id="how-it-works">How It Works</h2>
-<h3>vRandom Phrase Generator</h3>
-<ol>
-    <li><strong>Random Phrase Generation:</strong> The application selects a random phrase from a predefined list.</li>
-    <li><strong>Output:</strong> Displays the selected phrase in the terminal.</li>
-</ol>
 
 <h3>Rock Paper Scissors Game</h3>
 <ol>
@@ -81,12 +75,6 @@ npm install (if any dependencies)
     <li><strong>Repeat / Termination:</strong> Game continues until user quits or for set rounds. Final winner is declared.</li>
 </ol>
 
-<h2 id="project-structure">Project Structure</h2>
-<pre><code>Javascript-Terminal-Project/
-├── vRandomPhraseGenerator.js   # vRandom Phrase Generator
-├── RockPaperScissorsGame.js    # Rock Paper Scissors Game
-└── README.html                 # This file
-</code></pre>
 
 <h2 id="contributing">Contributing</h2>
 <p>Contributions, bug fixes, or ideas are welcome:</p>
