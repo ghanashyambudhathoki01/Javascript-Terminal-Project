@@ -13,8 +13,6 @@
 <ul>
     <li><a href="#overview">Overview</a></li>
     <li><a href="#features">Features</a></li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#how-it-works">How It Works</a></li>
     <li><a href="#project-structure">Project Structure</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
